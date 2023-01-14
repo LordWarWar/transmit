@@ -11,3 +11,5 @@ tcp://77.87.215.41:433/
 tcp://82.202.220.185:433/
 https://vodokanal-ykt.ru/
 https://www.eirkc.ru/
+https://dagestan.digital/
+https://194.190.87.5/
